@@ -1,0 +1,55 @@
+nav{
+  height:80px;
+  display:flex;
+  padding:10px 30px;
+  box-shadow: 2px 2px 3px whitesmoke;
+}
+
+.logo-abnb{
+  padding:10px 0px 10px 0px;
+}
+
+.hero-images{
+  
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+}
+
+.hero{
+  width:300px;
+  height:250px;
+  margin:20px 10px;
+}
+
+.info{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  flex-direction:column;
+}
+
+.all-card{
+  display:flex;
+  justify-content:center;
+  text-align:center;
+  flex-direction:row;
+  flex-wrap:wrap;
+  
+  
+}
+.card{
+  width:250px;
+}
+.peoples{
+  margin:10px 0px 0px 15px;
+  height:250px;
+  width:200px;
+
+}
+.desc{
+  
+  margin-left:13px;
+  
+
+}
